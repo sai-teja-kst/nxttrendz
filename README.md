@@ -1,5 +1,9 @@
-# React Context Part | 4
+Nxt Trendz application built using MERN stack.
 
-- Empty Cart View
-- Displaying Cart Items Count
-- Deployment
+link : https://kstejaecom.ccbp.tech
+
+creds to access this application:
+
+username : rahul
+
+password : rahul@2021
